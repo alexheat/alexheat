@@ -1,3 +1,5 @@
+I work full-time as a product analyst at Microsoft and studyied data science at UC Berkeley. 
+
 I try to help people with object detection questions on Stack Overflow and build up my reputation: <br>
 <a href="https://stackoverflow.com/users/5183735/alexheat"><img src="https://stackoverflow.com/users/flair/5183735.png" width="208" height="58" alt="profile for alexheat at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for alexheat at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <!--
